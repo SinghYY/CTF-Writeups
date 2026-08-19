@@ -17,7 +17,10 @@ Pwn/     二进制漏洞利用
 
 | 日期 | 平台 | 题型 | 题目 | 状态 |
 |---|---|---|---|---|
-| （待补充） | - | - | - | - |
+| 2026-08-16 | BUUCTF | Web·文件上传 | [Upload-Labs Pass-01 前端 JS 校验绕过（三种解法）](Web/Upload-Labs-Pass-01-前端JS校验绕过/) | ✅ |
+| 2026-08-16 | BUUCTF | Web·文件上传 | [Upload-Labs Pass-02 MIME 类型校验绕过](Web/Upload-Labs-Pass-02-MIME类型校验绕过/) | ✅ |
+| 2026-08-16 | BUUCTF | Web·文件上传 | [Upload-Labs Pass-03 服务端黑名单扩展名绕过](Web/Upload-Labs-Pass-03-黑名单扩展名绕过/) | ✅ |
+| 2026-08-16 | BUUCTF | Web·文件上传 | [Upload-Labs Pass-04 .htaccess 绕过上传](Web/Upload-Labs-Pass-04-htaccess绕过/) | ✅ |
 
 ## 刷题平台
 
